@@ -9,7 +9,7 @@
 |     5      | Tree Model / Boosting                                        | XGBoost / LMT / LASSO / Ridge      | [APS Failure at Scania Trucks Data Set](https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks) |
 |     6      | Multi-class and Multi-Label                                  | SVM / KMeans                       | [Anuran Calls (MFCCs) Data Set](https://archive.ics.uci.edu/ml/datasets/Anuran+Calls+(MFCCs)) |
 |     7      | Supervised / Semi-supervised / Unsupervised Learning, Active Learning / Passive Learning | SVM / KMeans / Spectral Clustering | [Breast Cancer Wisconsin (Diagnostic)](https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)) |
-|     7      | Deep Learning                                                | LSTM / CNN                         | [Bertrand Russell's bboks from Project Gutenberg](https://www.gutenberg.org/ebooks/author/355) |
+
 
 
 
